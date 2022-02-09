@@ -1,4 +1,4 @@
-# Laravel Loocalization With Php File
+# Laravel Loocalization With Json File
 
 ## Create a New Laravel 8 Application
 ```
